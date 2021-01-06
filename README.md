@@ -1,2 +1,2 @@
 # API_REST-ASSURED
-restassured
+testng+restassured+maven 接口自动化
